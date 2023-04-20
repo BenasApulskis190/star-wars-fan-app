@@ -1,7 +1,6 @@
 # Star Wars Fan App
 
-Welcome to the Star Wars Fan App! This is a web application built using React, Material-UI, and other open-source libraries.
-
+Welcome to the Star Wars Fan App! This is a web application built using React, Material-UI
 ## Table of Contents
 
 - [Installation](#installation)

@@ -22,7 +22,7 @@ export const HomePage = () => {
             variant="h2"
             color="textPrimary"
             gutterBottom
-            style={{
+            sx={{
               fontSize: theme.typography.h2.fontSize,
               fontWeight: theme.typography.fontWeightBold,
               lineHeight: theme.typography.h2.lineHeight,
@@ -32,6 +32,9 @@ export const HomePage = () => {
             }}
           >
             {t('Home.Title')}
+          </Typography>
+          <Typography variant="subtitle1" color="textSecondary">
+            {t('Home.Description')}
           </Typography>
           <Typography variant="subtitle1" color="textSecondary">
             {t('Home.Description')}

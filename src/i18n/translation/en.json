@@ -1,4 +1,11 @@
 {
+  "About.Title": "About",
+  "Buttons.Close": "Close",
+  "Error.NoData": "No data",
+  "Error.Pages.NotFound.Button": "Go back",
+  "Error.Pages.NotFound.Description": "Not found",
+  "Error.Pages.NotFound.Title": "Not Found",
+  "Error.SomethingWentWrong": "Something Went Wrong",
   "Film.Details.Characters": "Characters",
   "Film.Details.Table.BirthYear": "Birth year",
   "Film.Details.Table.Gender": "Gender",
@@ -7,6 +14,8 @@
   "Film.FilmItem.Director": "Director:",
   "Film.FilmItem.ReleaseDate": "Release date:",
   "Films.Title": "Brows films",
+  "Home.Description": "This is a fan app to see star wars movies ",
+  "Home.Title": "Star wars fan app",
   "Sidebar.Item.About": "About",
   "Sidebar.Item.Films": "Films"
 }

@@ -1,0 +1,12 @@
+{
+  "Film.Details.Characters": "Characters",
+  "Film.Details.Table.BirthYear": "Birth year",
+  "Film.Details.Table.Gender": "Gender",
+  "Film.Details.Table.Mass": "Mass (kg)",
+  "Film.Details.Table.Name": "Name",
+  "Film.FilmItem.Director": "Director:",
+  "Film.FilmItem.ReleaseDate": "Release date:",
+  "Films.Title": "Brows films",
+  "Sidebar.Item.About": "About",
+  "Sidebar.Item.Films": "Films"
+}
